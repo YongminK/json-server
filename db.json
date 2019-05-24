@@ -1,9 +1,17 @@
 {
     "users": [{
-        "id": 1,
-        "name": "roy",
-        "location": "india"
-    }],
+        "id": "c380be58-f3d9-4524-b929-7a8e219a6e66",
+        "firstName": "Алексей",
+        "secondName": "Владимирович",
+        "lastName": "Аксенов"
+    },
+    {
+        "id": "c380be58-f3d9-4524-b929-54fg5g",
+        "firstName": "Станислав",
+        "secondName": "Андреевич",
+        "lastName": "Чернышев"
+    }
+],
     "subjects":[{
         "id":1,
         "name": "null"
