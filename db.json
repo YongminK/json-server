@@ -10,6 +10,12 @@
         "firstName": "Станислав",
         "secondName": "Андреевич",
         "lastName": "Чернышев"
+    },
+    {
+        "id": "d4545-f3d9-4524-b929-54fg5g",
+        "firstName": "Дмитрий",
+        "secondName": "Алексеевич",
+        "lastName": "Булгаков"
     }
 ],
     "subjects":[{
