@@ -1,19 +1,53 @@
 {
-    "users": [{
-        "id": "c380be58-f3d9-4524-b929-7a8e219a6e66",
-        "firstName": "Алексей",
-        "secondName": "Владимирович",
-        "lastName": "Аксенов"
-    },
-    {
-        "id": "c380be58-f3d9-4524-b929-54fg5g",
-        "firstName": "Станислав",
-        "secondName": "Андреевич",
-        "lastName": "Чернышев"
-    }
-],
-    "subjects":[{
-        "id":1,
-        "name": "null"
-    }]
+    "subjects":[
+        {
+            "id": 0,
+            "subject": "Базы данных"
+        },
+        {
+            "id": 1,
+            "subject": "Интерактивная компьютерная графика"
+        }
+    ],
+    "groups":[
+        {
+            "id": 0,
+            "groupNumber": 4543
+        },
+        {
+            "id": 1,
+            "groupNumber": 4542
+        }
+    ],
+    "tasks": [
+        {
+            "id":0,
+            "taskName": "Разработка балблабла",
+            "taskType": "Лабораторная работа"
+        },
+        {
+            "id":1,
+            "taskName": "Проверка знаний",
+            "taskType": "Контрольная работа"
+        }
+    ],
+    "students":[
+        {
+            "id":0,
+            "firstName": "Иван",
+            "secondName": "Иванов",
+            "lastName": "Иванович"
+        }
+    ],
+    "notes":[
+        {
+            "task": "Разработка балблабла",
+            "note": 5
+        },
+        {
+            "task": "Проверка знаний",
+            "note": 3
+        }
+    ]
+
 }
