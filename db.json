@@ -18,6 +18,10 @@
         {
             "id": 1,
             "groupNumber": 4542
+        },
+        {
+            "id": 2,
+            "groupNumber": 4541
         }
     ],
     "tasks": [
@@ -26,6 +30,18 @@
             "subjectID": 434,
             "taskName": "Разработка балблабла",
             "taskType": "Лабораторная работа"
+        },
+        {
+            "id":2,
+            "subjectID": 434,
+            "taskName": "Проверка",
+            "taskType": "Контрольная работа"
+        },
+        {
+            "id":3,
+            "subjectID": 434,
+            "taskName": "fdfdfd",
+            "taskType": "Контрольная работа"
         },
         {
             "id":1,
