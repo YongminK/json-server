@@ -4,12 +4,34 @@
         {
             "id": 434,
             "subject": "Базы данных",
-            "groups": [4543,4541]
+            "groups": [4543,4541],
+            "tasks":[{
+                "id":0,
+                "taskName": "Разработка балблабла",
+                "taskType": "Лабораторная работа"
+            },
+            {
+                "id":2,
+                "taskName": "Проверка",
+                "taskType": "Контрольная работа"
+            },
+            {
+                "id":3,
+                "taskName": "fdfdfd",
+                "taskType": "Контрольная работа"
+            }]
         },
         {
             "id": 1,
             "subject": "Интерактивная компьютерная графика",
-            "groups":[4542]
+            "groups":[4542],
+            "tasks":[
+                {
+                "id":1,
+                "taskName": "Проверка знаний",
+                "taskType": "Контрольная работа"
+                }
+            ]
         }
     ],
     "groups":[
@@ -25,33 +47,7 @@
             "id": 2,
             "groupNumber": 4541
         }
-    ],
-    "tasks": [
-        {
-            "id":0,
-            "subjectID": 434,
-            "taskName": "Разработка балблабла",
-            "taskType": "Лабораторная работа"
-        },
-        {
-            "id":2,
-            "subjectID": 434,
-            "taskName": "Проверка",
-            "taskType": "Контрольная работа"
-        },
-        {
-            "id":3,
-            "subjectID": 434,
-            "taskName": "fdfdfd",
-            "taskType": "Контрольная работа"
-        },
-        {
-            "id":1,
-            "subjectID": 1,
-            "taskName": "Проверка знаний",
-            "taskType": "Контрольная работа"
-        }
-    ],
+    ],   
     "students":[
         {
             "id":0,
