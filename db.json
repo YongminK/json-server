@@ -37,7 +37,15 @@
     "groups":[
         {
             "id": 0,
-            "groupNumber": 4543
+            "groupNumber": 4543,
+            "students":[
+                {
+                    "id":0,
+                    "firstName": "Иван",
+                    "secondName": "Иванов",
+                    "lastName": "Иванович"
+                }
+            ]
         },
         {
             "id": 1,
@@ -48,14 +56,6 @@
             "groupNumber": 4541
         }
     ],   
-    "students":[
-        {
-            "id":0,
-            "firstName": "Иван",
-            "secondName": "Иванов",
-            "lastName": "Иванович"
-        }
-    ],
     "notes":[
         {
             "task": "Разработка балблабла",
