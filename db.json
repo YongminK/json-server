@@ -1,33 +1,44 @@
 {
-    "users": [{
-        "id": "c380be58-f3d9-4524-b929-7a8e219a6e66",
-        "firstName": "Алексей",
-        "secondName": "Владимирович",
-        "lastName": "Аксенов"
-    },
-    {
-        "id": "c380be58-f3d9-4524-b929-54fg5g",
-        "firstName": "Станислав",
-        "secondName": "Андреевич",
-        "lastName": "Чернышев"
-    },
-    {
-        "id": "d4545-f3d9-4524-b929-54fg5g",
-        "firstName": "Дмитрий",
-        "secondName": "Алексеевич",
-        "lastName": "Булгаков"
-    }
-],
-    "subjects":[{
-        "id":0,
-        "subject": "Интерактивная компьютерная графика"
-    },
-    {
-        "id": 1,
-        "subject": "Информатика"
-    },
-    {
-        "id": 2,
-        "subject": "Базы данных"
-    }]
+    "groups": [
+        {
+            "id": "832aedb9-7555-4e5b-8536-eddbeee0a0b5",
+            "number": "1"
+        },
+        {
+            "id": "50fa90a2-f887-405c-b5b2-4e0b5c780596",
+            "number": "2"
+        },
+        {
+            "id": "c684b5f3-017f-407d-af71-7e4cd7d797c4",
+            "number": "3"
+        },
+        {
+            "id": "d090a0ca-6302-428d-bbaf-f7edcf27f1bc",
+            "number": "4"
+        },
+        {
+            "id": "b47f14a8-e1c3-4372-86e6-7a0fcf3025c2",
+            "number": "5"
+        },
+        {
+            "id": "82881a40-d695-4eb5-b119-ecfeff9d453d",
+            "number": "6"
+        },
+        {
+            "id": "917a2418-7701-409d-80e7-d9efd9748c19",
+            "number": "7"
+        },
+        {
+            "id": "8c5e79a1-2bed-4714-a980-e1ee595d7fd7",
+            "number": "8"
+        },
+        {
+            "id": "08f3cea6-229d-4d5a-90b3-cdaae2689b21",
+            "number": "9"
+        },
+        {
+            "id": "9daf62dd-abcf-44b7-9075-d0d021af8af5",
+            "number": "10"
+        }
+    ]
 }
